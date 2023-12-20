@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/VARSoftSolutions/static/css/main.b6392cc8.css",
+    "main.js": "/VARSoftSolutions/static/js/main.6983186e.js",
+    "static/js/787.a96b1701.chunk.js": "/VARSoftSolutions/static/js/787.a96b1701.chunk.js",
+    "index.html": "/VARSoftSolutions/index.html",
+    "main.b6392cc8.css.map": "/VARSoftSolutions/static/css/main.b6392cc8.css.map",
+    "main.6983186e.js.map": "/VARSoftSolutions/static/js/main.6983186e.js.map",
+    "787.a96b1701.chunk.js.map": "/VARSoftSolutions/static/js/787.a96b1701.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6392cc8.css",
+    "static/js/main.6983186e.js"
+  ]
+}
